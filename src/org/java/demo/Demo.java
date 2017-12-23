@@ -6,8 +6,8 @@ public class Demo {
 		// TODO Auto-generated method stub
 		
 		//第一次添加
-		
-		
+		String name=null;
+		//aaaaaaaaaaaa
 	}
 
 }
